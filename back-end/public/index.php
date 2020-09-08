@@ -122,62 +122,8 @@
                 <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p>
             </div><!-- end title -->
 			
+			<?php display_projects() ?>
 			
-			
-			<div class="gallery-list row">
-				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_b">
-					<div class="gallery-single fix">
-						<img src="images/project coronavirus.PNG" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-							<a href="https://github.com/Salma-hu/coronavirus-projet" data-rel="#" class="hoverbutton global-radius"><i class="fa fa-github"></i></a>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 gallery-grid gal_c gal_b">
-					<div class="gallery-single fix">
-						<img src="images/projet 2AI.PNG" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-							<a href="https://github.com/Zineb112/2AI-project" data-rel="#" class="hoverbutton global-radius"><i class="fa fa-github"></i></a>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
-					<div class="gallery-single fix">
-						<img src="images/projet web agency.png" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-							<a href="https://github.com/abdellmum/building__front-end__web__application/tree/master" data-rel="#" class="hoverbutton global-radius"><i class="fa fa-github"></i></a>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 gallery-grid gal_b gal_a">
-					<div class="gallery-single fix">
-						<img src="images/projet web agency.png" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-							<a href="uploads/gallery_img-04.jpg" data-rel="#" class="hoverbutton global-radius"><i class="fa fa-github"></i></a>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 gallery-grid gal_a gal_c">
-					<div class="gallery-single fix">
-						<img src="images/projet web agency.png" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-							<a href="uploads/gallery_img-05.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-github"></i></a>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-md-4 col-sm-6 gallery-grid gal_c gal_a">
-					<div class="gallery-single fix">
-						<img src="images/projet web agency.png" class="img-fluid" alt="Image">
-						<div class="img-overlay">
-							<a href="uploads/gallery_img-06.jpg" data-rel="prettyPhoto[gal]" class="hoverbutton global-radius"><i class="fa fa-github"></i></a>
-						</div>
-					</div>
-				</div>
 			</div>
 			</div>
 		</div>
@@ -193,82 +139,8 @@
             <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="testi-carousel owl-carousel owl-theme">
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="uploads/testi_01.png" alt="" class="img-fluid alignleft">
-                                <h4>James Fernando <small>- Manager of Racer</small></h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
 
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="uploads/testi_02.png" alt="" class="img-fluid alignleft">
-                                <h4>Jacques Philips <small>- Designer</small></h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="uploads/testi_03.png" alt="" class="img-fluid alignleft">
-                                <h4>Venanda Mercy <small>- Newyork City</small></h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Wonderful Support!</h3>
-                                <p class="lead">They have got my project on time with the competition with a sed highly skilled, and experienced & professional team.</p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="images/testi_01.png" alt="" class="img-fluid alignleft">
-                                <h4>James Fernando <small>- Manager of Racer</small></h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Awesome Services!</h3>
-                                <p class="lead">Explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you completed.</p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="images/testi_02.png" alt="" class="img-fluid alignleft">
-                                <h4>Jacques Philips <small>- Designer</small></h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div>
-                        <!-- end testimonial -->
-
-                        <div class="testimonial clearfix">
-                            <div class="desc">
-                                <h3><i class="fa fa-quote-left"></i> Great & Talented Team!</h3>
-                                <p class="lead">The master-builder of human happines no one rejects, dislikes avoids pleasure itself, because it is very pursue pleasure. </p>
-                            </div>
-                            <div class="testi-meta">
-                                <img src="images/testi_03.png" alt="" class="img-fluid alignleft">
-                                <h4>Venanda Mercy <small>- Newyork City</small></h4>
-                            </div>
-                            <!-- end testi-meta -->
-                        </div><!-- end testimonial -->
-                    </div><!-- end carousel -->
+                    <?php display_testimonials() ?>
                 </div><!-- end col -->
             </div><!-- end row -->
         </div><!-- end container -->
