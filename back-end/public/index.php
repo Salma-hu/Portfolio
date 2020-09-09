@@ -100,7 +100,7 @@
                         <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo. </p>
 						<p>Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo.</p>
 
-                        <a href="#" class="sim-btn btn-hover-new" data-text="Download CV"><span>Download CV</span></a>
+                        <a href="https://drive.google.com/file/d/1JniAJYAmXFC5oDNZdoWaipe_6TrTzIgn/view?usp=sharing" class="sim-btn btn-hover-new" data-text="Download CV"><span>Download CV</span></a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
 
@@ -121,6 +121,7 @@
                 <h3>My projects</h3>
                 <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p>
             </div><!-- end title -->
+            <div class="gallery-list row">
 			
 			<?php display_projects() ?>
 			
