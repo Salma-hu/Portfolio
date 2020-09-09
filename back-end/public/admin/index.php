@@ -21,11 +21,8 @@ include(TEMPLATE_BACK . DS . "head.php");
 
        
 
-        // projects requests
-        if(isset($_GET['create_projects'])){
-            include(TEMPLATE_BACK . DS . "projects/create_projects.php");
-        }
-      
+        
+       
     
         // Testimonials requests
         if(isset($_GET['create_testimonials'])){
@@ -36,6 +33,16 @@ include(TEMPLATE_BACK . DS . "head.php");
         }
         if(isset($_GET['edit_testimonials'])){
             include(TEMPLATE_BACK . DS . "testimonials/edit_testimonials.php");
+        }
+        // projects requests
+        if(isset($_GET['create_projects'])){
+            include(TEMPLATE_BACK . DS . "projects/create_projects.php");
+        }
+        if(isset($_GET['manage_projects'])){
+            include(TEMPLATE_BACK . DS . "projects/manage_projects.php");
+        }
+        if(isset($_GET['edit_projects'])){
+            include(TEMPLATE_BACK . DS . "projects/edit_projects.php");
         }
       
      
