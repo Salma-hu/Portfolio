@@ -30,7 +30,7 @@
                             </tr>
                         </thead>
                         <tbody>
-                        </tbody>
+                        <?php display_testimonials_admin() ?>
                     </table>
                 </div>
             </div>
