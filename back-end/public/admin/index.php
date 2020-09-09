@@ -22,9 +22,21 @@ include(TEMPLATE_BACK . DS . "head.php");
        
 
         // projects requests
+        if(isset($_GET['create_projects'])){
+            include(TEMPLATE_BACK . DS . "projects/create_projects.php");
+        }
       
     
         // Testimonials requests
+        if(isset($_GET['create_testimonials'])){
+            include(TEMPLATE_BACK . DS . "testimonials/create_testimonials.php");
+        }
+        if(isset($_GET['manage_testimonials'])){
+            include(TEMPLATE_BACK . DS . "testimonials/manage_testimonials.php");
+        }
+        if(isset($_GET['edit_testimonials'])){
+            include(TEMPLATE_BACK . DS . "testimonials/edit_testimonials.php");
+        }
       
      
         // Users requests
