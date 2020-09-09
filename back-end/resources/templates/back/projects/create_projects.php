@@ -1,5 +1,5 @@
 <?php 
-submit_partner();
+submit_projects();
 
 ?>
 <div class="app-main__inner">
@@ -10,7 +10,7 @@ submit_partner();
                     <i class="pe-7s-wallet icon-gradient bg-plum-plate"> </i>
                 </div>
                 <div>
-                    Add project
+                    Add projects
                     <div class="page-title-subheading">
                         By submitting this form you will create a projects
                     </div>
@@ -29,11 +29,13 @@ submit_partner();
         <div class="col-md-8">
             <div class="main-card mb-2 card">
                 <div class="card-body">
-                    <h5 class="card-title">New project</h5>
+                    <h5 class="card-title">New projects</h5>
                     <form method="POST" enctype="multipart/form-data" class="needs-validation" novalidate="" >
                         <div class="form-row">
+                           
+
                             <div class="col-md-4 mb-3">
-                                <label for="validationCustom01">Website link</label>
+                                <label for="validationCustom01">link</label>
                                 <input type="text" class="form-control" id="validationCustom01" placeholder="link" name="link" required="" />
                                 <div class="valid-feedback">
                                     Looks good!
