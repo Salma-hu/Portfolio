@@ -88,27 +88,6 @@
                                 </li>
                                 <li class="app-sidebar__heading">Admin Area</li>
                                 <li>
-                                    <a href="#">
-                                        <i class="metismenu-icon pe-7s-users"></i>
-                                        Users
-                                        <i class="metismenu-state-icon pe-7s-angle-down caret-left"></i>
-                                    </a>
-                                    <ul>
-                                        <li>
-                                            <a href="index.php?add_user">
-                                                <i class="metismenu-icon"></i>
-                                                Add user
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a href="index.php?manage_users">
-                                                <i class="metismenu-icon">
-                                                </i>Manage users
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li>
                                     <a href="index.php?change_pass">
                                         <i class="metismenu-icon pe-7s-door-lock"></i>
                                         Change password
