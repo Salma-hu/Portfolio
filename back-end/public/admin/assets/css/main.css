@@ -2983,14 +2983,14 @@ fieldset:disabled a.btn {
 
 .btn-success {
     color: #fff;
-    background-color: #3ac47d;
-    border-color: #3ac47d
+    background-color: #495057;
+    border-color: #495057
 }
 
 .btn-success:hover {
     color: #fff;
-    background-color: #31a66a;
-    border-color: #2e9d64
+    background-color: #FFB6C1;
+    border-color: #FFB6C1
 }
 
 .btn-success:focus,
@@ -11419,7 +11419,7 @@ button,
 }
 
 .vertical-nav-menu li a:hover {
-    background: #E70D00;
+    background: #FFB6C1;
     text-decoration: none;
     color: white;
     font-weight: bolder;
