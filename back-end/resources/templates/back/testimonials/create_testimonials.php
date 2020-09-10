@@ -10,9 +10,9 @@ submit_testimonials();
                     <i class="pe-7s-wallet icon-gradient bg-plum-plate"> </i>
                 </div>
                 <div>
-                    Add testimonials client
+                    Add testimonials 
                     <div class="page-title-subheading">
-                        By submitting this form you will create a new testimonials client
+                        By submitting this form you will create a new testimonials
                     </div>
                 </div>
             </div>
@@ -50,7 +50,7 @@ submit_testimonials();
 
                             <div class="col-md-4 mb-3">
                                 <label for="validationCustom01">role</label>
-                                <input type="text" class="form-control" id="validationCustom01" placeholder="role client" name="role" required="" />
+                                <input type="text" class="form-control" id="validationCustom01" placeholder="role" name="role" required="" />
                                 <div class="valid-feedback">
                                     Looks good!
                                 </div>
