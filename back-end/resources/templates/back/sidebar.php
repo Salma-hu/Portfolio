@@ -86,13 +86,6 @@
                                         </li>
                                     </ul>
                                 </li>
-                                <li class="app-sidebar__heading">Admin Area</li>
-                                <li>
-                                    <a href="index.php?change_pass">
-                                        <i class="metismenu-icon pe-7s-door-lock"></i>
-                                        Change password
-                                    </a>
-                                </li>
                             </ul>
                         </div>
                     </div>
