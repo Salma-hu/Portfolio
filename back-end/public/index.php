@@ -134,7 +134,7 @@
         <div class="container">
             <div class="section-title text-left">
                 <h3>Testimonials</h3>
-                <p>We thanks for all our awesome testimonials! There are hundreds of our happy customers! </p>
+                <p>Thank you for all the wonderful testimonials. This is an example of many testimonials! </p>
             </div><!-- end title -->
 
             <div class="row">
