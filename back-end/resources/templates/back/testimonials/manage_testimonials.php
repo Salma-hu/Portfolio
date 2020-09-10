@@ -7,7 +7,7 @@
                     <i class="pe-7s-car icon-gradient bg-mean-fruit">
                     </i>
                 </div>
-                <div>Manage your testimonials client
+                <div>Manage your testimonials 
                     <div class="page-title-subheading">here you can modify your testimonials 
                     </div>
                 </div>
