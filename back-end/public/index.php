@@ -85,7 +85,7 @@
 			<h3 class="cd-headline clip is-full-width">
 				<span>I'm a  </span>
 				<span class="cd-words-wrapper">
-					<b class="is-visible">Intégratrice Web</b>
+					<b class="is-visible">Web Developer</b>
 				</span>
 			</h3>
 		</div>
@@ -97,8 +97,8 @@
                 <div class="col-md-6">
                     <div class="message-box">                        
                         <h2>About Me.</h2>
-                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo. </p>
-						<p>Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo.</p>
+                        <p> I’m a web developer living in Youssoufia, Morocco. I spend my days with my hands in many different areas of web development from back end programming (PHP, ) to front end engineering (HTML, CSS, and Javascript), digital accessibility, user experience and visual design. </p>
+						<p>I have all the skills to create a new high quality website or improve existing websites for individuals and organisations, using the latest techniques and trends. I focus on modern and responsive website solutions that are easy to update by the client.</p>
 
                         <a href="https://drive.google.com/file/d/1JniAJYAmXFC5oDNZdoWaipe_6TrTzIgn/view?usp=sharing" class="sim-btn btn-hover-new" data-text="Download CV"><span>Download CV</span></a>
                     </div><!-- end messagebox -->
