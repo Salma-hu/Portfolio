@@ -83,9 +83,9 @@
 			<h1>hello i'm Salma</h1>
 			<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
 			<h3 class="cd-headline clip is-full-width">
-				<span>I'm a web developer </span>
+				<span>I'm a  </span>
 				<span class="cd-words-wrapper">
-					<b class="is-visible">Web Developer</b>
+					<b class="is-visible">Intégratrice Web</b>
 				</span>
 			</h3>
 		</div>
