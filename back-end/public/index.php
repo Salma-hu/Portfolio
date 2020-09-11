@@ -77,13 +77,13 @@
       </div>
     </nav>
 	
-    <section id="home" class="main-banner parallaxie" style="background: url('images/back.jpg')">
+    <section id="home" class="main-banner parallaxie" style="background: url('images/bg.png')">
         <img class="photo" src="images/téléchargement.jpg" alt="">
 		<div class="heading">
 			<h1>hello i'm Salma</h1>
 			<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
 			<h3 class="cd-headline clip is-full-width">
-				<span>I'm a  </span>
+				<span>I'm a</span>
 				<span class="cd-words-wrapper">
 					<b class="is-visible">Web Developer</b>
 				</span>
@@ -106,7 +106,7 @@
 
                 <div class="col-md-6">
                     <div class="right-box-pro wow fadeIn">
-                        <img src="images/about_04.jpg" alt="" class="img-fluid img-rounded">
+                        <img src="images/Untitled .png" alt="" class="img-fluid img-rounded">
                     </div><!-- end media -->
                 </div><!-- end col -->
             </div><!-- end row -->
@@ -119,7 +119,7 @@
 		<div class="container">
 			<div class="section-title text-left">
                 <h3>My projects</h3>
-                <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p>
+                <p>My Recent Works.</p>
             </div><!-- end title -->
             <div class="gallery-list row">
 			
