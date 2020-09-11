@@ -44,6 +44,12 @@ include(TEMPLATE_BACK . DS . "head.php");
         if(isset($_GET['edit_projects'])){
             include(TEMPLATE_BACK . DS . "projects/edit_projects.php");
         }
+      
+     
+        // Users requests
+        if(isset($_GET['change_pass'])){
+            include(TEMPLATE_BACK . DS . "users/change_password.php");
+        }
         
 
 ?>
