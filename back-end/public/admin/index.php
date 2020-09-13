@@ -59,6 +59,7 @@ include(TEMPLATE_BACK . DS . "head.php");
         if(isset($_GET['edit_user'])){
             $_SESSION['access'] == $access_admin ?  include(TEMPLATE_BACK . DS . "users/edit_user.php"):  include(TEMPLATE_BACK . DS . "notAuth.php") ;
         }
+        
 
 ?>
 
