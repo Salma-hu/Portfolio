@@ -80,7 +80,7 @@
     <section id="home" class="main-banner parallaxie" style="background: url('images/back.jpg')">
 		<div class="heading">
 			<h1>hello i'm Salma</h1>
-			<p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, <br>sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."</p>
+			<p>" i'm a girl slightly obsessed for code quality, <br>If you have a project that you want to get started or<br> think you need my help with something, then get in touch."</p>
 			<h3 class="cd-headline clip is-full-width">
 				<span>I'm a  </span>
 				<span class="cd-words-wrapper">
@@ -99,7 +99,7 @@
                         <p> I’m a web developer living in Youssoufia, Morocco. I spend my days with my hands in many different areas of web development from back end programming (PHP, ) to front end engineering (HTML, CSS, and Javascript), digital accessibility, user experience and visual design. </p>
 						<p>I have all the skills to create a new high quality website or improve existing websites for individuals and organisations, using the latest techniques and trends. I focus on modern and responsive website solutions that are easy to update by the client.</p>
 
-                        <a href="https://drive.google.com/file/d/1JniAJYAmXFC5oDNZdoWaipe_6TrTzIgn/view?usp=sharing" class="sim-btn btn-hover-new" data-text="Download CV"><span>Download CV</span></a>
+                        <a href="assets/CV.pdf" class="sim-btn btn-hover-new" data-text="Download CV"><span>Download CV</span></a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
 
