@@ -105,7 +105,7 @@
 
                 <div class="col-md-6">
                     <div class="right-box-pro wow fadeIn">
-                        <img src="images/about_04.jpg" alt="" class="img-fluid img-rounded">
+                        <img src="images/about_04.jpeg" alt="" class="img-fluid img-rounded">
                     </div><!-- end media -->
                 </div><!-- end col -->
             </div><!-- end row -->
