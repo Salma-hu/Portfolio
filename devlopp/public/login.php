@@ -29,14 +29,12 @@
     <div id="wrapper" class="wrapper">
         <div class="fxt-template-animation fxt-template-layout5">
             <div class="fxt-bg-img fxt-none-767" data-bg-image="assets/images/bg5-l.png">
-                <div class="fxt-intro">
-                    <div class="sub-title">Welcome </div>
-                    <h1>Salma</h1>
-                </div>
+            <img src="images/loginimage.png" alt="">
+               
             </div>
             <div class="fxt-bg-color">
                 <div class="fxt-header">
-                    <a href="login.php" class="fxt-logo"><img src="assets/images/image-login.png" alt="Logo"></a>
+                    <a href="login.php" class="fxt-logo"><img src="assets/images/image-login.jpg" alt="Logo"></a>
                 </div>
                 <div class="fxt-form">
 				<form  action='<?php echo htmlspecialchars($_SERVER['PHP_SELF']) ?>' method="POST">
