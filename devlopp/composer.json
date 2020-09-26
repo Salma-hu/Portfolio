@@ -1,6 +1,6 @@
 {
     "name": "project/portfolio",
-    "description": "portfolio MINA DAKIRI website",
+    "description": "portfolio salma belassiri website",
     "type": "project",
     "require": {
         "guzzlehttp/guzzle": "^7.0",
