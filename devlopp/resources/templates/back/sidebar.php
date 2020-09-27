@@ -75,13 +75,13 @@
                                         <li>
                                             <a href="index.php?create_testimonials">
                                                 <i class="metismenu-icon"></i>
-                                                Create client member
+                                                Create  member
                                             </a>
                                         </li>
                                         <li>
                                             <a href="index.php?manage_testimonials">
                                                 <i class="metismenu-icon">
-                                                </i>Manage client member
+                                                </i>Manage member
                                             </a>
                                         </li>
                                     </ul>
