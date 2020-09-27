@@ -105,65 +105,14 @@ function make_thumb($src,$ext , $dest, $desired_width) {
     imagejpeg($virtual_image, $dest);
   }
 
-//changing password function
-function change_password(){
-    global $pdo;
-    try {
-        if(isset($_POST['submit'])) {
-            $current_pass = MD5(trim($_POST['current-password']));
-            $new_pass = MD5(trim($_POST['new-password']));
-            $sql = "SELECT password_hash FROM users WHERE id = ?";
-            $stmt = $pdo->prepare($sql);
-            $stmt->execute([$_SESSION['user_id']]);
-            $res =  $stmt->fetch();
-            if($res){
-                if($current_pass == $res->password_hash){
-                    $updatepass = $pdo->prepare("UPDATE users SET password_hash = ? WHERE id = ?");
-                    $updatepass->execute([$new_pass, $_SESSION['user_id']]);
-                    if($updatepass){
-                        set_message('success', 'password updated successfully');
-                    }else{
-                        set_message('error', 'query failed try later');
-                    }
-                }else {
-                    set_message('error', 'current password incorrect');
-                }
-            } else {
-                set_message('error', 'user is not in our system');
-            }
-            }
-        }catch (PDOException $e) {
-        echo 'query failed' . $e->getMessage();
-    }
-}
 
 
 
-// function for creating URL slugs
-function create_url_slug($string){
-    $slug=preg_replace('/[^A-Za-z0-9-]+/', '-', $string);
-    return $slug;
-}
 
-//function for visitors to subscribe
-function subscribe_newsletter(){
-    global $pdo;
-    try {
-        if(isset($_POST['subscribe'])){
-            $sql = "INSERT INTO `news_lettre` (`subscriber_email`) VALUES (?);";
-            $stmt = $pdo->prepare($sql);
-            $stmt->execute([$_POST['subEmail']]);
-            if($stmt){
-                echo json_encode(['code'=>200, 'msg'=>"Subscribed successfully"]);
-            } else {
-                echo json_encode(['code'=>400, 'msg'=>"Try again later"]);
-            }
-        }
-    } catch (PDOException $e) {
-        echo 'query failed' . $e->getMessage();
-    }
-   
-}
+
+
+
+
 
 //function for sending emails
 function send_email($message, $email){
