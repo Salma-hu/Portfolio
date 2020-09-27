@@ -77,7 +77,7 @@
       </div>
     </nav>
 	
-    <section id="home" class="main-banner parallaxie" style="background: url('images/back.jpg')">
+    <section id="home" class="main-banner parallaxie" style="background: url('images/bac.png')">
 		<div class="heading">
 			<h1>hello i'm Salma</h1>
 			<p>" i'm a girl slightly obsessed for code quality, <br>If you have a project that you want to get started or<br> think you need my help with something, then get in touch."</p>
@@ -178,7 +178,7 @@
 									<div class="form-group">
 										<input class="form-control" name="phone" id="phone" type="tel" placeholder="Your Phone" required="required" data-validation-required-message="Please enter your phone number.">
                                         <p class="help-block text-danger"></p>
-                                        <p class="contactForm__alertmsg"><?php if(isset($subject_error)) echo $subject_error; ?></p>
+                                        <p class="contactForm__alertmsg"><?php if(isset($phone_error)) echo $phone_error; ?></p>
 									</div>
 								</div>
 								<div class="col-md-6">
